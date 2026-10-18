@@ -1,0 +1,44 @@
+[
+  {
+    "field": "experience",
+    "required": true,
+    "goal": "Understand relevant work experience, including the type of work, role, and approximate duration.",
+    "validation": "Needs meaningful detail about previous work; a broad phrase such as 'I worked in trucking' needs a follow-up."
+  },
+  {
+    "field": "full_name",
+    "required": true,
+    "goal": "Collect the applicant's full name.",
+    "validation": "Needs at least a first and last name."
+  },
+  {
+    "field": "location",
+    "required": true,
+    "goal": "Find out the applicant's current city and state or country.",
+    "validation": "Needs a recognizable city or region, with country or state when relevant."
+  },
+  {
+    "field": "position",
+    "required": true,
+    "goal": "Identify the job title or type of role the applicant wants.",
+    "validation": "Needs a specific role or a clear category of work."
+  },
+  {
+    "field": "availability",
+    "required": true,
+    "goal": "Find out when the applicant can start or what schedule they are available for.",
+    "validation": "Needs a start date, time frame, or clear schedule availability."
+  },
+  {
+    "field": "work_authorization",
+    "required": true,
+    "goal": "Determine whether the applicant is legally authorized to work in the job's country.",
+    "validation": "Needs a clear yes/no answer and any relevant qualification the applicant volunteers. Do not request document numbers."
+  },
+  {
+    "field": "phone",
+    "required": true,
+    "goal": "Collect a phone number where the applicant can be reached.",
+    "validation": "Needs a plausible phone number with 7 to 15 digits."
+  }
+]
