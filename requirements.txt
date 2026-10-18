@@ -1,1 +1,3 @@
--r "New Folder/requirements.txt"
+python-telegram-bot>=21,<23
+openai>=1.30
+python-dotenv>=1.0
